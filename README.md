@@ -7,13 +7,13 @@
 
 ## How it Works?<br>
 1. Download "ffmpeg.exe" (SSL Support).<br>
-1. Run M3U8VideoRecorder.exe (32Bit Windows).<br>
-2. PASTE the URL of the .m3u8 link.<br>
-3. CLick [ Check ], to get the VIdeo Resolution formats.(The App Supports only "https://" links).<br>
-4. Set VIdeo Resolution(if AUTO is selected, FFMPEG will set the VIdeo Resolution).<br>
-5. Set VideoFile EXT (example: ".mp4", ".mkv"...etc)(DEFAULT: ".ts").<br>
-6. CLick [ Start ].<br>
-7. CLick [ Stop ] to stop Recording.<br>
+2. Run M3U8VideoRecorder.exe (32Bit Windows).<br>
+3. PASTE the URL of the .m3u8 link.<br>
+4. CLick [ Check ], to get the VIdeo Resolution formats.(The App Supports only "https://" links).<br>
+5. Set VIdeo Resolution(if AUTO is selected, FFMPEG will set the VIdeo Resolution).<br>
+6. Set VideoFile EXT (example: ".mp4", ".mkv"...etc)(DEFAULT: ".ts").<br>
+7. CLick [ Start ].<br>
+8. CLick [ Stop ] to stop Recording.<br>
 
 ## Build.
 _for beginners_ <br>
