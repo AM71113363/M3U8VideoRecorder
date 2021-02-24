@@ -1,0 +1,30 @@
+#include <windows.h>
+
+200 ICON "kvirc.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,2,7
+PRODUCTVERSION 1,0,2,7
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "CompanyName", "AM71113363"
+			 VALUE "FileVersion", ""
+			 VALUE "FileDescription", "24-02-2021"
+			 VALUE "InternalName", ""
+			 VALUE "LegalCopyright", ""
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", ""
+			 VALUE "ProductName", ""
+			 VALUE "ProductVersion", "v2.7"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252
+	 }
+}
+
