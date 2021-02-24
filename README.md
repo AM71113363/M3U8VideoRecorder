@@ -25,7 +25,7 @@ You already know how to rebuilt it. ^_^<br>
 <br>
 
 # NOTE
-The App needs "ffmpeg.exe" to be in the same DIR where the App is.
+The App needs "ffmpeg.exe" to be in the same DIR where the App is.<br>
 //tested with ffmpeg version N-8763-g341f012 (2017) MD5  B637B0DBEB5FEC898AF663F196C58902
 
 
