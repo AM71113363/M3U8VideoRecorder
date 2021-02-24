@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="420" height="240" src="https://github.com/AM71113363/M3U8VideoRecorder/blob/master/info.png?raw=true">
+<img align="center" width="420" height="240" src="https://raw.githubusercontent.com/AM71113363/M3U8VideoRecorder/main/info.png">
 </p>
 
 # M3U8 Video Recorder.
